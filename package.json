@@ -1,0 +1,22 @@
+{
+  "name": "medium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d medium"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezgidivarci/medium-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https:/ezgidivarci.github.io/medium-clone"
+  },
+  "homepage": "https://github.com/ezgidivarci/medium-clone#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
