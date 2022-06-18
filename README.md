@@ -1,2 +1,2 @@
 # Medium-clone
-## live: https://ezgidivarci.github.io/cars-blog
+## live: https://ezgidivarci.github.io/medium-clone
